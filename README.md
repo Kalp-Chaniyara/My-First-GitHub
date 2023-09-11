@@ -1,4 +1,4 @@
-# My-First-GitHub
+# My-First-GitHub Project
 This is my 1st GitHub Project.
 <br>
 Author - Kalp Chaniyara
